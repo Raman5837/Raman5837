@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aman <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">I am a full stack developer in the process of learning a bit everyday through the projects I build. I love to build stuff on the web.</h3>
 
+<h3 align="center">I am a full stack developer in the process of learning a bit everyday through the projects I build. I love to build stuff on the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raman5837&label=Profile%20views&color=0e75b6&style=flat" alt="raman5837" /> </p>
 
@@ -13,7 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman5837" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="aman5837" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aman5837_._/" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="aman5837" height="30" width="40" /></a>
+<h3 align="left">Time To Judge Me 😂 :</h3>
 <a href="https://www.leetcode.com/Aman5837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman5837" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aman__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raman5837&show_icons=true&locale=en&layout=compact" alt="raman5837" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raman5837&show_icons=true&locale=en" alt="raman5837" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raman5837&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="raman5837" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman5837&" alt="raman5837" /></p>
