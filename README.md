@@ -12,11 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aman5837" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="aman5837" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aman5837_._/" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="aman5837" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman5837" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="aman5837" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aman5837_._/" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="aman5837" height="30" width="40" /></a>
 <h3 align="left">Time To Judge Me 😂 :</h3>
-<a href="https://www.leetcode.com/Aman5837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman5837" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aman__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Aman5837" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman5837" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aman__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aman__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
