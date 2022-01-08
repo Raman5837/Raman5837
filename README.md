@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Aman <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-<h3 align="center">I am a full stack developer in the process of learning a bit everyday through the projects I build. I love to build stuff on the web.</h3>
+<h3 align="center">I'm A Passionate Full-Stack Developer. I Love To Build Stuff On The Web. </h3>
+<h4 align="center">Currently Building Something</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raman5837&label=Profile%20views&color=0e75b6&style=flat" alt="raman5837" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raman5837&label=Profile%20views&color=0e75b6&style=flat" alt="Raman5837" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -13,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_______Aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_______aman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman5837" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="aman5837" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman5837" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman5837" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aman5837_._/" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="aman5837" height="30" width="40" /></a>
 <h3 align="left">Time To Judge Me 😂 :</h3>
 <a href="https://www.leetcode.com/Aman5837" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman5837" height="30" width="40" /></a>
