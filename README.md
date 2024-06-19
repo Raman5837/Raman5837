@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raman5837&label=Profile%20views&color=0e75b6&style=flat" alt="Raman5837" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently exploring the **Go Ecosystem**
 
-- 💬 Ask me about **Python , Django, HTML , CSS**
+- 💬 I would love to discuss **Building products and businesses, Databases, Architecting scalable systems**
 
 - 📫 How to reach me : **amanverma5837@gmail.com**
 
